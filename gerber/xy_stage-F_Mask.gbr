@@ -1,0 +1,43 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.1-79c1e3a40b~116~ubuntu20.04.1*
+G04 #@! TF.CreationDate,2022-01-22T14:27:32+01:00*
+G04 #@! TF.ProjectId,xy_stage,78795f73-7461-4676-952e-6b696361645f,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Soldermask,Top*
+G04 #@! TF.FilePolarity,Negative*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.1-79c1e3a40b~116~ubuntu20.04.1) date 2022-01-22 14:27:32*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 Aperture macros list*
+%AMOutline4P*
+0 Free polygon, 4 corners , with rotation*
+0 The origin of the aperture is its center*
+0 number of corners: always 4*
+0 $1 to $8 corner X, Y*
+0 $9 Rotation angle, in degrees counterclockwise*
+0 create outline with 4 corners*
+4,1,4,$1,$2,$3,$4,$5,$6,$7,$8,$1,$2,$9*%
+G04 Aperture macros list end*
+%ADD10Outline4P,-0.300000X-0.550000X0.300000X-0.550000X0.300000X0.550000X-0.300000X0.550000X0.000000*%
+%ADD11R,0.600000X1.000000*%
+%ADD12R,1.000000X0.600000*%
+%ADD13C,1.700000*%
+G04 APERTURE END LIST*
+D10*
+X86249999Y-100925000D03*
+X86249999Y-95075000D03*
+X102650000Y-117850000D03*
+X97350000Y-117850000D03*
+D11*
+X82575000Y-98025000D03*
+D12*
+X100025000Y-121600000D03*
+D13*
+X83200000Y-101100000D03*
+X83200000Y-94900000D03*
+X103125000Y-121050000D03*
+X96900000Y-121000000D03*
+M02*
